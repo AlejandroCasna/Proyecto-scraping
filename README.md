@@ -1,6 +1,6 @@
 ![gift](https://github.com/AlejandroCasna/Proyecto-scraping/blob/f7a00953a639c26de1ab66ef732bbcde32179ee3/imagenes/voley.gif)
 
-🏐 En este emocionante proyecto, he asumido la responsabilidad de recopilar información crucial para nuestro equipo de vóley de alto rendimiento. Nuestro objetivo es utilizar esta valiosa información en futuros encuentros para comprender a fondo las estrategias y tácticas empleadas por nuestros rivales.
+🏐 En este emocionante proyecto, he asumido la responsabilidad de recopilar información crucial para nuestro equipo de vóley de alto rendimiento. Nuestro objetivo es utilizar esta valiosa información en futuros encuentros para comprender a fondo las estrategias y tácticas empleadas por nuestros rivales de Superliga Masculina.
 
 🚀 Además, contar con esta información detallada nos otorgará la flexibilidad para ajustar nuestras tácticas en tiempo real durante el partido, lo que sin duda potenciará nuestras posibilidades de éxito. Asimismo, nos proporcionará la habilidad de tomar decisiones cruciales en momentos determinantes del juego, asegurando que nuestro equipo esté completamente preparado y en la posición óptima para enfrentar cualquier desafío que se presente en la cancha. Estoy ansioso por presenciar los frutos de este arduo trabajo y el impacto positivo que tendrá en nuestro rendimiento en el campo de juego. 🥇
 
