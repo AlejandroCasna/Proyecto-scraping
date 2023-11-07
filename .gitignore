@@ -1,4 +1,4 @@
-
+*.exe
 *.log
 .DS_store
 .ipynb_checkpoints
