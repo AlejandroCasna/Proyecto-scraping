@@ -50,7 +50,7 @@ Pronto dispondremos de estadísticas detalladas tanto de equipos como de jugador
 
 - [**Python**](https://www.python.org):  El lenguaje de programación principal utilizado para implementar el proceso ETL y llevar a cabo el análisis.
 
-- [**Selenium**]([https://www.selenium.dev](https://www.selenium.dev/documentation/): Una herramienta de automatización web utilizada para interactuar con sitios web y obtener datos de chat de sitios que no proporcionan una API directa.
+- [**Selenium**](https://www.selenium.dev/documentation/): Una herramienta de automatización web utilizada para interactuar con sitios web y obtener datos de chat de sitios que no proporcionan una API directa.
 
 - [**Joblib**](https://joblib.readthedocs.io/en/stable/): Una biblioteca de Python para procesar tareas en paralelo. Solo para main.py.
 
